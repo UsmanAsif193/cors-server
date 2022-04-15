@@ -19,5 +19,5 @@ corsProxy
     removeHeaders: ["cookie", "cookie2"],
   })
   .listen(PORT, host, () => {
-    console.log("Running CORS Anywhere on " + host + ":" + port);
+    console.log("Running CORS Anywhere on " + host + ":" + PORT);
   });
