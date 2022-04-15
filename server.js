@@ -14,7 +14,6 @@ corsProxy
       "https://api.howrare.is/v0.1/drops",
       "https://altdeck-user-frontend-new.vercel.app/",
       "https://www.altdeck.io",
-      "*",
     ],
     requireHeader: ["origin", "x-requested-with"],
     removeHeaders: ["cookie", "cookie2"],
