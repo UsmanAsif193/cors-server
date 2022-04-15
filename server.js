@@ -12,7 +12,7 @@ corsProxy
       "http://localhost:3000",
       "https://nxtgem.io",
       "https://api.howrare.is/v0.1/drops",
-      "https://altdeck-user-frontend-new.vercel.app/",
+      "https://altdeck-user-frontend-new.vercel.app",
       "https://www.altdeck.io",
     ],
     requireHeader: ["origin", "x-requested-with"],
